@@ -3,7 +3,7 @@
   <img align="left" alt="Yubraj Sigdel | HuggingFace" width="22px" src="https://github.com/huggingface/awesome-huggingface/blob/main/logo.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yubraj-sigdel/">
-  <img align="left" alt="Yubraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Yubraj's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg)" />
 </a>
 <!--
 **yubraaj11/yubraaj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
