@@ -13,5 +13,6 @@
 ###
 
 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yubraaj11" height="150" alt="yubraaj11" /></p>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yubraaj11" height="150" alt="yubraaj11" />
+</div>
