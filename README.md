@@ -14,5 +14,5 @@
 
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yubraaj11" height="150" alt="yubraaj11" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yubraaj11" height="250" alt="yubraaj11" />
 </div>
