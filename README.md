@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yubraj Sigdel!  
 
-🚀 **AI Engineer | Machine Learning | NLP & Computer Vision Enthusiast**  
+🚀 **AI Engineer | Machine Learning | LLM and Agentic AI Enthusiast**  
 
 I specialize in building **AI-driven solutions**, working with **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Computer Vision, and NLP** to solve complex real-world problems.  
 
